@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NVCB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NV_PCTSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NV_PKT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NV_PĐT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NV_TCHC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_createRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_createUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_deleteRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_deleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_GrantRevokeRoleForUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_GrantRevokeUserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_GrantRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_GrantUserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_QuanLyUserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_RevokeRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_RevokeUserRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_updateRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanHe1_updateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GIAOVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SINHVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TRGĐV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
