@@ -3,11 +3,6 @@
 This is a WinForms application developed for the **Database Security in Information Systems** course (`CSC12001`). The system is built for a fictional university (University X) and includes secure data management through Oracle security mechanisms such as **RBAC**, **VPD**, **OLS**, **Audit**, and **Backup/Restore**.
 
 ---
-## 📁 Project Structure
-
-📦 ATBM_UI/ ├── 📁 src/ # Source code for all WinForms modules │ ├── *.cs, *.Designer.cs # Forms for each user role (e.g., NV_PKT, NV_TCHC) │ └── *.resx # Form resources ├── 📁 SQL_Scripts/ # SQL scripts for setting up the database │ ├── Create_role_and_account.sql │ ├── DaiHocX.sql │ ├── RBAC.sql │ ├── VPD.sql │ ├── OLS.sql │ ├── Procedure_PhanHe1.sql │ ├── Procedure_PhanHe2.sql ├── ATBM_UI_new.sln # Visual Studio Solution file └── README.md # Project documentation
-
----
 
 ## 🧩 Subsystem 1: Oracle Database Administration Tool
 
