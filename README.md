@@ -4,6 +4,13 @@ This is a WinForms application developed for the **Database Security in Informat
 
 ---
 
+## Sreenshots
+![Login](Screenshots/Login.jpg)  
+![ControlPanel](Screenshots/Admin_ControlPanel.jpg)
+![ManageUserRole](Screenshots/User_Role_Management.jpg)
+![PhanHe2_PĐT](Screenshots/PhanHe2_NVPĐT.jpg)
+
+
 ## 🧩 Subsystem 1: Oracle Database Administration Tool
 
 A module for **Database Administrators** to manage user and role access on Oracle DB Server.
